@@ -1,6 +1,6 @@
 # TF-controller for Flux
 
-A Helm chart for tf-controller
+A Helm chart for TF-controller
 
 ## Installation
 
@@ -8,7 +8,7 @@ Before using TF-controller, you have to install Flux by using either `flux insta
 
 ## Configuration
 
-The following tables lists the configurable parameters of the Flux chart and their default values.
+The following tables lists the configurable parameters of the TF-controller chart and their default values.
 
 | Parameter                                         | Default                                              | Description
 | -----------------------------------------------   | ---------------------------------------------------- | ---
