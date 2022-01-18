@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2022-01-18T15:45:00.840066-05:00"
+entries:
+  tf-controller:
+  - apiVersion: v2
+    appVersion: 0.7.0
+    created: "2022-01-18T21:21:30.645068767Z"
+    description: A Helm chart for TF-controller
+    digest: 5594570050b82b94af097d390c43a356ed8d74ef546b559d9f22b15c44bd992e
+    name: tf-controller
+    type: application
+    urls:
+    - https://github.com/tf-controller/charts/releases/download/tf-controller-0.0.1/tf-controller-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-01-18T21:21:30.645088367Z"
