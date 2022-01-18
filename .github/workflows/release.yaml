@@ -1,7 +1,8 @@
 name: release-chart
 on:
   push:
-    tags: 'chart-*'
+    branches:
+      - main
 
 jobs:
   publish:
